@@ -9,6 +9,7 @@
   "author": "Maksim Lashtur",
   "license": "ISC",
   "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
     "browser": "^0.2.6",
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
